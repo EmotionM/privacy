@@ -70,7 +70,7 @@ We value your privacy. This policy explains how EMo iOS App handles your data.
 - We may update this policy from time to time. Updates will be posted on this page with a new “Last updated” date.
 
 ## Contact
-- Email: your-email@example.com
+- Email: sandboxemotionm@gmail.com
 
 ---
 
