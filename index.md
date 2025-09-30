@@ -1,4 +1,13 @@
 ---
+layout: none
+---
+<style>
+/* Hide GitHub Pages/Jekyll header banner and footer if present */
+.page-header, .site-header, header, .navbar, .masthead { display: none !important; }
+footer, .site-footer { display: none !important; }
+main { padding-top: 0 !important; }
+</style>
+---
 title: EMo 隱私權政策 | EMo Privacy Policy
 description: EMo iOS App 的隱私權政策（Privacy Policy）
 ---
